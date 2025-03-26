@@ -22,7 +22,7 @@ function Hero() {
           style={{ width: "20%", margin: "0 auto" }}
         >
           <Link
-            to="http://localhost:3000"
+            to="https://zerodha-clone-dashboard-5674.netlify.app"
             style={{ textDecoration: "none", color: "white" }}
           >
             Sign up for free
